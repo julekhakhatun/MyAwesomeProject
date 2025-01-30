@@ -1,2 +1,2 @@
 This is a first line to my awesome project.
-new file is comming.
+Adding to file1.
